@@ -1,0 +1,5 @@
+.java.policy have to be copied to the current users directory 
+
+for example:
+     if user is "Administrator" then the file .java.policy should be copied in the following directory -
+     D:\Documents and Settings\Administrator\.java.policy
