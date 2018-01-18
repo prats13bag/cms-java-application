@@ -1,11 +1,11 @@
-Contact Management System
+﻿Contact Management System
 ====================================
 
 _**1. Introduction to Contact Management System Java Application**_
 
 The Contact Management System application based on Java is supposed to store basic details of employees associated with an organization. This application allows the user to add/remove/update and retrieve informations such as Address, Phone No., Email ID, Birthday and Anniversary of any person/employee. Application also allows the user to maintain a directory of reminders and can name it such as Team Meeting on some day with some person.
 
-ontact Management System is completely on Java Applet and therefore is a small java application. In fututre, with considerable enhancements the application can have some form of connectivity through internet to increase accessibility across systems. The system would then also need to be more secure and flexible.
+Contact Management System is completely on Java Applet and therefore is a small java application. In fututre, with considerable enhancements the application can have some form of connectivity through internet to increase accessibility across systems. The system would then also need to be more secure and flexible.
 
 
 _**2. Limitations of this application**_
